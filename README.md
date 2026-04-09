@@ -1,6 +1,6 @@
 # Predictive Logistics Pipeline & MLOps Dashboard
 
-[![Live Demo Hosted on Hugging Face](https://img.shields.io/badge/Live_Demo-Hugging_Face-blue?style=for-the-badge)](INSERT_YOUR_HUGGING_FACE_LINK_HERE)
+[![Live Demo Hosted on Hugging Face](https://img.shields.io/badge/Live_Demo-Hugging_Face-blue?style=for-the-badge)](https://huggingface.co/spaces/danvin/logistics-prediction-engine)
 
 ## Project Overview
 An end-to-end machine learning pipeline designed to predict supply chain delivery delays. The model moves beyond standard accuracy metrics by integrating a custom business cost-matrix, adjusting the prediction threshold to minimize financial loss from false negatives (missed delays). 
